@@ -4,8 +4,8 @@ Indoor Air Quality Monitoring Application
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" />
-  <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" /> 
+  <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/>
+  <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/> 
   <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100" />
 </p>
 
