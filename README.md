@@ -8,18 +8,25 @@ Indoor Air Quality Monitoring Application
   <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/> 
   <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100" />
 </p>
+
+
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Splash Screen</td>
+     <td>Introduction Screen #1</td>
+     <td>Introduction Screen #2</td>
+    <td>Introduction Screen #3</td>
+    <td>Login Screen</td>
   </tr>
   <tr>
-    <td> <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/></td>
-    <td> <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/></td>
-    <td> <img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="100"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226913912-ae09fc0a-7856-4bbc-b0c9-b02309f30435.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226913873-3516ef2e-62ad-43c8-a5a8-f887afae4c27.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226913886-e4a68859-5c03-442c-9deb-1224970a90ce.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226913907-9f25f418-ad3c-4fa1-9658-ac863988a1c3.png" width="150"/></td>
   </tr>
  </table>
+
 ![Intro 1](https://user-images.githubusercontent.com/54314092/226913867-f0956c14-4f5c-400a-9951-428da9d31601.png)
 ![Intro 2](https://user-images.githubusercontent.com/54314092/226913873-3516ef2e-62ad-43c8-a5a8-f887afae4c27.png)
 ![Intro 3](https://user-images.githubusercontent.com/54314092/226913881-7230ac71-23ec-4ef8-9568-1477a7113da6.png)
