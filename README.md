@@ -135,17 +135,21 @@ Indoor Air Quality Monitoring Application
 
    <table>
   <tr>
+     <td>IAQI Page #1</td>
     <td>Pollutant Page #1</td>
     <td>Pollutant Page #2</td>
     <td>Pollutant Page #3</td>
-    <td>IAQI Page #1</td>
+   
    
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54314092/226917064-6b0bf499-9dbb-4fef-af94-bb6f3d89743c.png" width="150"/></td>
-    <td><img src="https://user-images.githubusercontent.com/54314092/226917071-c400e60b-13a5-41f7-a836-af52368f67af.png" width="150"/></td>
-    <td><img src="https://user-images.githubusercontent.com/54314092/226917079-7b9bfcfc-22be-409f-8c20-a58dd1b99028.png" width="150"/></td>
     <td><img src="https://user-images.githubusercontent.com/54314092/226916956-3b0a699f-4560-49a9-a7ee-38827c25e90b.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226917079-7b9bfcfc-22be-409f-8c20-a58dd1b99028.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226917071-c400e60b-13a5-41f7-a836-af52368f67af.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/226917064-6b0bf499-9dbb-4fef-af94-bb6f3d89743c.png" width="150"/></td>
+    
+ 
+    
   </tr>
  </table>
 
