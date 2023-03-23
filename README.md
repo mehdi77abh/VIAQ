@@ -38,14 +38,14 @@ Indoor Air Quality Monitoring Application
   <tr>
   <td>Home</td>
     <td>Empty Home</td>
-     <td>Device Setting</td>
+     <td>Guests</td>
     <td>Device Off</td>
    
   </tr>
   <tr>
   <td><img src="https://user-images.githubusercontent.com/54314092/226916946-fec3a847-8c12-486c-a1d2-eae3d9bdc25f.png" width="150"/></td>
     <td><img src="https://user-images.githubusercontent.com/54314092/226916922-baff943e-c7a6-445e-880f-2313066db9a9.png" width="150"/></td>
-    <td><img src="https://user-images.githubusercontent.com/54314092/226916997-0b43488e-087a-4360-bff6-ca23f6cf767e.png" width="150"/></td>
+    <td><img src="https://user-images.githubusercontent.com/54314092/227193122-20d048f2-af2d-42f3-8f6f-8bc341e687e7.png" width="150"/></td>
     <td><img src="https://user-images.githubusercontent.com/54314092/226916844-e39059c4-9a84-4f00-95f8-0923d3af4b13.png" width="150"/></td>
   </tr>
  </table>
