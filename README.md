@@ -13,9 +13,9 @@ Indoor Air Quality Monitoring Application
 <table>
   <tr>
     <td>Splash Screen</td>
-     <td>Introduction Screen #1</td>
-     <td>Introduction Screen #2</td>
-    <td>Introduction Screen #3</td>
+     <td>Introduction Screen</td>
+     <td>Introduction Screen</td>
+    <td>Introduction Screen</td>
     <td>Login Screen</td>
   </tr>
   <tr>
@@ -30,9 +30,9 @@ Indoor Air Quality Monitoring Application
  <table>
   <tr>
     <td>Splash Screen</td>
-     <td>Introduction Screen #1</td>
-     <td>Introduction Screen #2</td>
-    <td>Introduction Screen #3</td>
+     <td>Introduction Screen</td>
+     <td>Introduction Screen</td>
+    <td>Introduction Screen</td>
     <td>Login Screen</td>
   </tr>
   <tr>
