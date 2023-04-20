@@ -1,6 +1,7 @@
 # VIAQ
 Indoor Air Quality Monitoring Application
 
+Details coming soon...
 
 <table>
   <tr>
